@@ -1,0 +1,21 @@
+{
+  "name": "pictures-services",
+  "version": "1.0.0",
+  "description": "service to tret images in large scale",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "picture",
+    "format",
+    "treatment"
+  ],
+  "author": "Bruno Campos",
+  "license": "ISC",
+  "dependencies": {
+    "airfluencers-logger": "^1.0.2",
+    "logger": "0.0.1",
+    "sharp": "^0.22.1"
+  }
+}
